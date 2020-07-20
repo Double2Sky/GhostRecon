@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=0jB3VQbeJ74&feature=youtu.be
 - GhostRecon
 - IP_locator
 - IF YOU MOVED THE FOLLOWING FILES, YOU MAY EXPERIENCE ERRORS ON THE TOOL.
+- MAKE SURE YOUR OS IS UPDATED!
 ## HOW TO INSTALL (DON'T MISS A THING OR GET AN ERROR):
 - cd /root/
 - git clone https://github.com/mZzgamer/GhostRecon.git 
